@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @coding-zero-1.
 - 😁 I'm a programming enthusiast , and curious about tech in general.
 - 🖥️ Languages known : HTML,CSS,JAVASCRIPT,PYTHON,JAVA,C
+- 🤖 Technology known : ReactJs,NodeJs,Typescript
 - 📖 Topics i am interested in : Open Source, Cloud Computing, Full Stack Web Development , Aritificial Intelligence and Machine learning, Linux.
