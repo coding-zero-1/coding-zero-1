@@ -2,4 +2,5 @@
 - 😁 I'm a programming enthusiast , and curious about tech in general.
 - 🖥️ Languages known : HTML,CSS,JAVASCRIPT,PYTHON,JAVA,C
 - 🤖 Technology known : ReactJs,NodeJs,Typescript
+- 🎲 Miscellaneous skills : Zod,Turborepo,Bcrypt,MongoDb,Prisma,PostgreSql
 - 📖 Topics i am interested in : Open Source, Cloud Computing, Full Stack Web Development , Aritificial Intelligence and Machine learning, Linux.
