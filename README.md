@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coding-zero-1.
-- 😁 I'm a programming enthusiast , and curious about tech in general.
-- 🖥️ Languages known : HTML,CSS,JAVASCRIPT,PYTHON,JAVA,C
-- 🤖 Technology known : ReactJs,NodeJs,Typescript
-- 🎲 Miscellaneous skills : Zod,Bcrypt,MongoDb,Prisma,PostgreSql
-- 📖 Topics i am interested in : Full Stack Web Development, devops, Aritificial Intelligence and Machine learning, Linux.
+- 😁 I'm a software enginner currently working with web development in MERN+NextJs.
+- 🖥️ Languages known : JAVASCRIPT,PYTHON,JAVA,C,SQL
+- 🤖 Technology known : ReactJs,NodeJs,Typescript,NextJs
+- 🎲 Miscellaneous skills : Zod,Bcrypt,MongoDb,Prisma,PostgreSql,GenAI API
+- 📖 Roles i am interested in : Full Stack Web Developer, Backend Web Developer.
